@@ -25,7 +25,7 @@ public final class GraphBuilder {
         addNode(g, 13, "UG Hospital", 7, 2, tags("hospital", "clinic"));
         addNode(g, 14, "Gym", 7, 0, tags("gym", "sports"));
         addNode(g, 15, "Stadium", 7, 1, tags("stadium", "sports"));
-        addNode(g, 16, "N Block (Engineering)", 5, 4, tags("engineering", "block"));
+        addNode(g, 16, "N (Engineering)", 5, 4, tags("engineering", "block"));
         addNode(g, 17, "Volta Hall", 3, 1, tags("hall"));
         addNode(g, 18, "University Basic School", 2, -1, tags("school"));
         addNode(g, 19, "Noguchi", 8, 3, tags("research", "lab"));
