@@ -1,6 +1,7 @@
 package route;
 import model.Graph;
 import java.util.List;
+
 public final class Route {
     public final List<Integer> nodeSequence;
     public final double totalDistanceMeters;
