@@ -3,6 +3,7 @@ package algorithm;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+
 public final class MergeSort {
     public static <T> void sort(List<T> list, Comparator<T> comparator) {
         if (list.size() < 2) return;
