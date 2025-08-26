@@ -1,5 +1,4 @@
 package model;
-
 import java.util.Set;
 
 public final class Node {
