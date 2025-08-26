@@ -1,4 +1,5 @@
 package model;
+
 public final class Edge {
     public final int fromId;
     public final int toId;
