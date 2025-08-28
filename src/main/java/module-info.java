@@ -19,4 +19,4 @@ module com.example.mapug {
 // requires java.base;
 // requires java.sql;
 // requires java.desktop;
-// requires java.naming;
+// requires java.nami
