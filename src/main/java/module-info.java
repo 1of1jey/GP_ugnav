@@ -18,5 +18,5 @@ module com.example.mapug {
 // bring to existence
 // requires java.base;
 // requires java.sql;
-// requires java.desktop;
+// requires java.deskt
 // requires java.nami
