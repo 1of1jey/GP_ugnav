@@ -29,20 +29,6 @@ Estimated time (minutes)
 
 Extensible Design: New locations or roads can be added easily to the graph data.
 
-📂 Project Structure
-UG-Navigation/
-│── src/
-│   ├── model/
-│   │   ├── Graph.java        # Represents the entire campus map
-│   │   ├── Node.java         # Represents a building/landmark
-│   │   ├── Edge.java         # Represents a path/road
-│   │
-│   ├── algorithm/
-│   │   ├── Dijkstra.java     # Shortest path using Dijkstra
-│   │   ├── AStar.java        # Shortest path using A* search
-│   │
-
-
 🚀 How It Works
 
 The Graph class loads all campus locations and roads.
