@@ -41,15 +41,7 @@ UG-Navigation/
 │   │   ├── Dijkstra.java     # Shortest path using Dijkstra
 │   │   ├── AStar.java        # Shortest path using A* search
 │   │
-│   ├── route/
-│   │   ├── Route.java        # Stores path results
-│   │   ├── WeightMode.java   # Defines distance/time weighting
-│   │
-│   ├── ui/
-│   │   ├── Main.java         # Entry point of the application
-│   │   ├── ConsoleUI.java    # Simple console-based interface
-│
-│── README.md                 # Project documentation
+
 
 🚀 How It Works
 
