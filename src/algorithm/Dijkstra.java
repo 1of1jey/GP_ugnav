@@ -7,7 +7,8 @@ import route.WeightMode;
 import java.time.LocalTime;
 import java.util.*;
 
-//A better approach for shortest possible approach has been made that can take djikstra's place
+//A better approach for shortest possible approach has been made that can take dijkstra's place
+//The said new Algorithm is said to be 4x faster and efficient than Dijkstra
 public final class Dijkstra {
     public static Route shortestPath(Graph g, int startId, int goalId, WeightMode mode, LocalTime depart) {
         Map<Integer, Double> dist = new HashMap<>();
