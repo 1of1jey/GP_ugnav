@@ -1,5 +1,4 @@
- package algorithm;
-
+package algorithm;
 import model.Edge;
 import model.Graph;
 import route.Route;
@@ -8,6 +7,7 @@ import route.WeightMode;
 import java.time.LocalTime;
 import java.util.*;
 
+//A better approach for shortest possible approach has been made that can take djikstra's place
 public final class Dijkstra {
     public static Route shortestPath(Graph g, int startId, int goalId, WeightMode mode, LocalTime depart) {
         Map<Integer, Double> dist = new HashMap<>();
