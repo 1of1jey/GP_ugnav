@@ -16,7 +16,7 @@ public final class GraphBuilder {
         addNode(g, 4, "Commonwealth Hall", 1, -1, tags("hall"));
         addNode(g, 5, "Legon Hall", 3, 0, tags("hall"));
         addNode(g, 6, "Akuafo Hall", 4, 0, tags("hall"));
-        addNode(g, 7, "UGCS (Computing)", 3, 3, tags("computing", "lab"));
+        addNode(g, 7, "UGTD", 3, 3, tags("computing", "lab"));
         addNode(g, 8, "Business School", 4, 3, tags("business", "bank"));
         addNode(g, 9, "Banking Square", 5, 3, tags("bank"));
         addNode(g, 10, "JQB", 1, 1, tags("lecture", "block"));
